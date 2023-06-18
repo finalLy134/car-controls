@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* font-family: "Montserrat", sans-serif; */
+
+.car-controls {
+    display: flex;
+    justify-content: center;
+}
+
+#control-panel {
+    margin-top: 39%;
+    display: none; /* inline-block; */
+    background-color: rgba(26, 26, 26, 0.85);
+    padding: 15px;
+    border-radius: 15px;
+    border-color: black;
+    box-shadow: 0 0 5px 0px black;
+}
+
+.control {
+    margin: 3px;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(26, 26, 26);
+    height: 60px;
+    width: 80px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 0 0 5px 0px black;
+}
+
+.control:hover {
+    cursor: pointer;
+}
+
+.control:active {
+    background-color: rgb(60, 60, 60);
+}
