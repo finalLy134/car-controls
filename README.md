@@ -14,7 +14,8 @@ Requirements:
 - None 😊
 
 Usage:
-- Press [I] while inside a vehicle to open the car control's menu.
+- Press [Config.OpenKey] while inside a vehicle to open the car control's menu.
+- In order to change the key opening the menu, open client/config.lua and set Config.OpenKey to a key from this [Key Mappings List](https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard/)
 
 Preview:
 
