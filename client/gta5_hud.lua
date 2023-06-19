@@ -1,4 +1,4 @@
--- Disables GTA5 Default Health Bar --
+-- Disables GTA5 Defaults --
 local HUD_ELEMENTS = {
     HUD = { id = 0, hidden = false },
     HUD_WANTED_STARS = { id = 1, hidden = true },
@@ -28,14 +28,16 @@ local HUD_ELEMENTS = {
 
 Citizen.CreateThread(function()
 	while true do
-		Citizen.Wait(1)
-
-        for key, val in pairs(HUD_ELEMENTS) do
-            if val.hidden then
-                HideHudComponentThisFrame(val.id)
-            else
-                ShowHudComponentThisFrame(val.id)
+		Citizen.Wait(1000)
+        while (Config.DisableGTA5Defaults) do
+            for key, val in pairs(HUD_ELEMENTS) do
+                if val.hidden then
+                    HideHudComponentThisFrame(val.id)
+                else
+                    ShowHudComponentThisFrame(val.id)
+                end
             end
+            Citizen.Wait(1)
         end
 	end
 end)

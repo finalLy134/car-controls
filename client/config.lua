@@ -1,3 +1,4 @@
 Config = {}
 
-Config.OpenKey = 'i'
+Config.OpenKey             = 'i'
+Config.DisableGTA5Defaults = true
