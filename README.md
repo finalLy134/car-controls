@@ -21,4 +21,4 @@ A Standalone FiveM Script that adds Car Controls using NUI functionality.
 ![unknown](https://i.ibb.co/6ytPxRS/image.png)
 
 **Contact Me**:
-- **__Discord__**: finalLy#1138
+- **Discord**: finalLy#1138
