@@ -19,4 +19,5 @@ Usage:
 - Press [I] while inside a vehicle to open the car control's menu.
 
 Preview:
+
 ![unknown](https://i.ibb.co/6ytPxRS/image.png)
