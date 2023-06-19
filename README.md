@@ -20,4 +20,5 @@ Preview:
 
 ![unknown](https://i.ibb.co/6ytPxRS/image.png)
 
-Need Help? My Discord: finalLy#1138
+Contact Me:
+- Discord: finalLy#1138
