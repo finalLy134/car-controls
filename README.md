@@ -17,3 +17,6 @@ Requirements:
 
 Usage:
 - Press [I] while inside a vehicle to open the car control's menu.
+
+Preview:
+https://media.discordapp.net/attachments/512233461277523969/1120141392648339556/image.png?width=728&height=300
