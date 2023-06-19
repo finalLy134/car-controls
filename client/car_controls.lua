@@ -18,7 +18,7 @@ RegisterCommand('+opencarcontrols', function()
     end
 end)
 
-RegisterKeyMapping('+opencarcontrols', 'Opens Car Controls.', 'keyboard', 'i')
+RegisterKeyMapping('+opencarcontrols', 'Opens Car Controls.', 'keyboard', Config.OpenKey)
 
 --
 ---- Car Callbacks
