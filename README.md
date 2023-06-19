@@ -1,5 +1,5 @@
 # car-controls
-A FiveM Script that adds Car Controls using NUI functionality.
+A Standalone FiveM Script that adds Car Controls using NUI functionality.
 
 Features:
 - Adds turning off/on the vehicle's engine
