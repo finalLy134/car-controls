@@ -12,13 +12,18 @@ local windowRightRearState   = true  -- 3 -> RR
 --
 
 RegisterCommand('+opencarcontrols', function()
-    local ped = PlayerPedId()
-    if (IsPedInAnyVehicle(ped, false)) then
-        toggleUI(true)
-    end
+    openUI()
 end)
 
 RegisterKeyMapping('+opencarcontrols', 'Opens Car Controls.', 'keyboard', Config.OpenKey)
+
+--
+---- Events
+--
+
+RegisterNetEvent('carcontrols:client:openCarControls', function()
+    openUI()
+end)
 
 --
 ---- Car Callbacks
@@ -71,6 +76,13 @@ end)
 --
 ---- UI Functions
 --
+
+openUI = function ()
+    local ped = PlayerPedId()
+    if (IsPedInAnyVehicle(ped, false)) then
+        toggleUI(true)
+    end
+end
 
 toggleUI = function (bool)
     if (bool) then
