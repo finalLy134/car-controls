@@ -1,6 +1,18 @@
 # car-controls
 A Standalone FiveM Script that adds Car Controls using NUI functionality.
 
+## Support
+
+<table>
+    <tr>
+        <th>Personal Account</th>
+        <td><img src="https://dcbadge.limes.pink/api/shield/311897788206153730" alt="" /></td>
+    </tr>
+        <th>Discord Server</th>
+        <td><a target="_blank" href="https://discord.gg/87MZnFQv9y"><img src="https://dcbadge.limes.pink/api/server/87MZnFQv9y" alt="" /></a></td>
+    </tr>
+</table>
+
 ## Features
 - Adds turning off/on the vehicle's engine
 - Opening all sorts of doors in the vehicle
@@ -19,6 +31,3 @@ A Standalone FiveM Script that adds Car Controls using NUI functionality.
 ## Preview
 
 ![unknown](https://i.ibb.co/6ytPxRS/image.png)
-
-**Contact Me**:
-- **Discord**: finalLy#1138
