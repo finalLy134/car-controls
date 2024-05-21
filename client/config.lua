@@ -1,4 +1,4 @@
 Config = {}
 
 Config.OpenKey             = 'i'
-Config.DisableGTA5Defaults = true
+Config.DisableGTA5Defaults = false
