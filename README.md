@@ -34,4 +34,5 @@ A Standalone FiveM Script that adds Car Controls using NUI functionality.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is under MIT license. See the file [LICENSE](LICENSE) for more details.
+
