@@ -9,7 +9,7 @@ A Standalone FiveM Script that adds Car Controls using NUI functionality.
         <td><img src="https://dcbadge.limes.pink/api/shield/311897788206153730" alt="" /></td>
     </tr>
         <th>Discord Server</th>
-        <td><a target="_blank" href="https://discord.gg/W8msjQaev4"><img src="https://dcbadge.limes.pink/api/server/87MZnFQv9y" alt="" /></a></td>
+        <td><a target="_blank" href="https://discord.gg/W8msjQaev4"><img src="https://dcbadge.limes.pink/api/server/W8msjQaev4" alt="" /></a></td>
     </tr>
 </table>
 
